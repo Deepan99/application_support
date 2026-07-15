@@ -5,6 +5,7 @@ This repository contains a comprehensive suite of preparation materials, cheat s
 ## 📚 Repository Contents
 
 ### 1. Strategy & Behavioral Preparation
+* **[Textbook Definitions Cheat Sheet](textbook_definitions.md)**: Exact formal definitions for ITIL, Security, and DevOps terms (for interviewers checking boxes).
 * **[Job Description Analysis](jd_analysis.md)**: A strategic breakdown mapping core support competencies to the job requirements.
 * **[Interview Scenarios (STAR Method)](interview_scenarios.md)**: Real-world technical and behavioral scenarios (e.g., handling P1 outages, failed Ansible deployments) answered using the Situation-Task-Action-Result method.
 * **[The Golden Rules: Do's and Don'ts](dos_and_donts.md)**: A critical guide on exactly what to say (and what to avoid saying) during an enterprise support interview.
